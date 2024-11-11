@@ -1,1 +1,1 @@
-# DMRI_SSM
+# DiffMamba
