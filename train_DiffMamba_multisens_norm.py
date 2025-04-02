@@ -20,7 +20,7 @@ current_day = strftime("%m%d", gmtime())
 # LoadTrainDataPatchMulti, 
 ############################
 model_path = "/home/zhenlin/DiffMamba/log/Multi_sens_v5_nomlp/c4/model_47760.pt"
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+#os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 logdir = "/home/zhenlin/DiffMamba/log/Multi_sens_v5_nomlp/c4/"
 
 ############################
