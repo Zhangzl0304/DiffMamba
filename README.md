@@ -9,3 +9,5 @@ Remember to modify those varibles:
 ```
 logdir = <path_to_your_log>
 model_path = <path_to_your_model>
+```
+and also path to your data in `data_loader_Cmask.py`.
